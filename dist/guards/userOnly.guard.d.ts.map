@@ -1,0 +1,1 @@
+{"version":3,"file":"userOnly.guard.d.ts","sourceRoot":"","sources":["../../src/guards/userOnly.guard.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAE1D,MAAM,CAAC,OAAO,UAAU,QAAQ,CAC9B,GAAG,EAAE,OAAO,EACZ,CAAC,EAAE,QAAQ,EACX,IAAI,EAAE,YAAY,QAMnB"}

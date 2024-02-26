@@ -1,0 +1,1 @@
+{"version":3,"file":"users.type.d.ts","sourceRoot":"","sources":["../../../../src/contexts/accounts/users/users.type.ts"],"names":[],"mappings":"AAAA,MAAM,MAAM,cAAc,GAAG;IAC3B,KAAK,EAAE,MAAM,CAAC;IACd,QAAQ,EAAE,MAAM,CAAC;CAClB,CAAC;AACF,MAAM,MAAM,aAAa,GAAG,cAAc,CAAC"}
